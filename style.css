@@ -1,0 +1,128 @@
+body{
+    background-color: darkgrey;
+    width:100%;
+    margin: 0;
+}
+.navbar{
+    background-color: gray;
+    overflow: hidden;
+    padding-left: 70%;
+    padding-top: 2px;
+    padding-bottom: 10px;
+    width: 40%;
+    position: fixed;
+}
+.navbar a{
+    padding: 10px 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    margin: 0%;
+
+}
+.navbar a:hover{
+    background-color: lightgrey ;
+}
+#address{
+    text-align: center;
+    line-height: 90%;
+    padding-top: 3%;
+}
+#About_Me{
+        width: 80%;
+        height: auto;
+        background-color: grey;
+        padding: 15px 10px;
+        line-height: 2.5rem;
+        margin: 0 10%;
+        margin-top: 15px;
+}
+.image{
+    width: 30%;
+    float: left;
+    padding-top: 5%;
+    padding-left: 5%;
+}
+.About_right{
+    width: 50%;
+    display: inline-block;
+    line-height: 40px;
+    padding-left: 5%;
+}
+#skills{
+    width: 80%;
+    height: auto;
+    background-color: darkgray;
+    margin: 0 10%;
+    text-align: left;
+    line-height: 23px;
+    padding: 15px 10px;
+}
+#Biodata{
+    width: 80%;
+    height: auto;
+    background-color: darkgrey;
+    margin: 0 10%;
+    text-align: left;
+    line-height: 23px;
+    padding: 15px 10px;
+}
+
+.institution{
+    width: 80%;
+    height: auto;
+    background-color: darkgray;
+    margin: 0 10%;
+    text-align: left;
+    line-height: 23px;
+    padding: 15px 10px;
+
+}
+.qualification{
+    width: 80%;
+    height: auto;
+    background-color:darkgray;
+    margin: 0 10%;
+    text-align: left;
+    line-height: 23px;
+    padding: 15px 10px;
+}
+.Hobbies{
+    width: 80%;
+    height: auto;
+    background-color: darkgray;
+    margin: 0 10%;
+    text-align: left;
+    line-height: 23px;
+    padding: 15px 10px;
+
+}
+.workingexperience{
+    width: 80%;
+    height: auto;
+    background-color: darkgrey;
+    margin: 0 10%;
+    text-align: left;
+    line-height: 23px;
+    padding: 15px 10px;
+
+}
+.referees{
+    width: 80%;
+    height: auto;
+    background-color: darkgray;
+    margin: 0 10%;
+    text-align: left;
+    line-height: 23px;
+    padding: 15px 10px;
+
+}
+#contact{
+    width: 80%;
+    height: auto;
+    background-color:gray;
+    margin: 0 10%;
+    text-align: left;
+    line-height: 23px;
+    padding: 15px 10px;
+}
